@@ -4,7 +4,6 @@ variable "COMPONENT" {}
 variable "ENV" {}
 variable "AZ" {}
 variable "PORT" {}
-variable "NODE_COUNT" {}
 variable "SPOT_INSTANCE_COUNT" {}
 variable "INSTANCE_COUNT" {}
 variable "INSTANCE_TYPE" {}
